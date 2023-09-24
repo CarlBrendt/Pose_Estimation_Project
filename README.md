@@ -7,7 +7,7 @@ At this point, you can download this project and run it on your computer<br>
 2. Deploy on mobile device using mediapipe <br>
 
 # How to run on PC
-1. Download this folder with browser extension or use git clone link <br>
+1. Download PoseEstimationProject folder with browser extension or use git clone link <br>
 
 2. Install requirements <br>
 
